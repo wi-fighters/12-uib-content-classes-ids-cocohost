@@ -1,3 +1,12 @@
+#title h1 {
+  background-color: magenta;
+}
 list-item {
   color: rgb(89, 54, 100);
+}
+.heading {
+  color: red;
+}
+#small-heading {
+  background-color: green;
 }
