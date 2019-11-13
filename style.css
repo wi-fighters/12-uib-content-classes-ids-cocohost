@@ -1,8 +1,11 @@
 #title h1 {
   background-color: magenta;
 }
-list-item {
+.list-item {
   color: rgb(89, 54, 100);
+}
+li:last-child {
+  color: rgb(44, 202, 110);
 }
 .heading {
   color: red;
